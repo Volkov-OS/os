@@ -2,7 +2,7 @@
 Volkov OS - The main repository for this project
 # how to install
 When you on windows copy source directory to C:\
-Create in the source directory when you downloaded dorectory with name
+Create in the source directory when you downloaded directory with name
 
 volkov-dist
 
